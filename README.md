@@ -15,3 +15,5 @@ FullyQualifiedErrorId : UnauthorizedAccess
 - Открываем терминал PowerShell от админа.
 - Вставляем и запускаем - Set-ExecutionPolicy RemoteSigned
 - На вопрос отвечаем - A
+
+TON Address https://docs.ton.org/learn/overviews/addresses
